@@ -1,38 +1,26 @@
 <annotation>
-	<folder>images</folder>
-	<filename>16.jpg</filename>
-	<path>E:\Learning_Resources\Deep_learning\my_data_sets\DATASETS_IMAGE\object_detection_demo\images\16.jpg</path>
+	<folder>dataset</folder>
+	<filename>16.jpeg</filename>
+	<path>C:\Users\KVGVS\Desktop\dataset\16.jpeg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>800</width>
-		<height>600</height>
+		<width>774</width>
+		<height>642</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>date</name>
+		<name>number plate</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>145</xmin>
-			<ymin>198</ymin>
-			<xmax>259</xmax>
-			<ymax>377</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>date</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>490</xmin>
-			<ymin>215</ymin>
-			<xmax>611</xmax>
-			<ymax>361</ymax>
+			<xmin>276</xmin>
+			<ymin>353</ymin>
+			<xmax>506</xmax>
+			<ymax>405</ymax>
 		</bndbox>
 	</object>
 </annotation>
